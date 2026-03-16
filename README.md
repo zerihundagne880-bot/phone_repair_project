@@ -8,6 +8,17 @@ A specialized management dashboard for mobile repair technicians built with HTML
 
 ---
 
+### 📸 Project Preview
+
+<div align="center">
+  <img src="Screenshot_20260309_063620_Chrome.jpg" width="250" alt="Dashboard View" style="border-radius: 10px; border: 1px solid #ddd;">
+  <img src="Screenshot_20260309_063716_Chrome.jpg" width="250" alt="Registration Form" style="border-radius: 10px; border: 1px solid #ddd;">
+  <img src="Screenshot_20260309_063805_Chrome.jpg" width="250" alt="Repair Status Tracking" style="border-radius: 10px; border: 1px solid #ddd;">
+  <p><i>Live Mobile Dashboard & Registration Interface</i></p>
+</div>
+
+---
+
 ### ✨ Key Features
 - 📝 **Smart Registration:** Easily log customer contact details and specific device hardware/software issues.
 - 📊 **Status Tracking:** Update repair stages in real-time (e.g., Pending, In Progress, Completed).
@@ -24,8 +35,8 @@ A specialized management dashboard for mobile repair technicians built with HTML
 ---
 
 ### 🚀 Quick Start
-1. **Clone the Repo:** `git clone https://github.com/zerihundagne880-bot/phone-repair-hub.git`
-2. **Launch:** Open `index.html` in any web browser to start managing repairs.
+1. **Clone the Repo:** ```bash
+   git clone [https://github.com/zerihundagne880-bot/phone-repair-hub.git](https://github.com/zerihundagne880-bot/phone-repair-hub.git)
 
 ---
 
