@@ -11,9 +11,18 @@ A specialized management dashboard for mobile repair technicians built with HTML
 ### 📸 Project Preview
 
 <div align="center">
-  <img src="Screenshot_20260309_063620_Chrome.jpg" width="250" alt="Dashboard View" style="border-radius: 10px; border: 1px solid #ddd;">
-  <img src="Screenshot_20260309_063716_Chrome.jpg" width="250" alt="Registration Form" style="border-radius: 10px; border: 1px solid #ddd;">
-  <img src="Screenshot_20260309_063805_Chrome.jpg" width="250" alt="Repair Status Tracking" style="border-radius: 10px; border: 1px solid #ddd;">
+  <!-- Dashboard View -->
+  <img src="Screenshot_20260319_194507_Spck Editor.jpg" width="250" alt="Dashboard View" style="border-radius: 10px; border: 1px solid #ddd; margin: 5px;">
+  
+  <!-- Registration Form -->
+  <img src="Screenshot_20260319_194551_Spck Editor.jpg" width="250" alt="Registration Form" style="border-radius: 10px; border: 1px solid #ddd; margin: 5px;">
+  
+  <!-- Status Tracking -->
+  <img src="Screenshot_20260319_194600_Spck Editor.jpg" width="250" alt="Repair Status Tracking" style="border-radius: 10px; border: 1px solid #ddd; margin: 5px;">
+  
+  <!-- Mobile View -->
+  <img src="Screenshot_20260319_194611_Spck Editor.jpg" width="250" alt="Mobile Interface" style="border-radius: 10px; border: 1px solid #ddd; margin: 5px;">
+  
   <p><i>Live Mobile Dashboard & Registration Interface</i></p>
 </div>
 
@@ -35,10 +44,10 @@ A specialized management dashboard for mobile repair technicians built with HTML
 ---
 
 ### 🚀 Quick Start
-1. **Clone the Repo:** ```bash
+1. **Clone the Repo:**
+   ```bash
    git clone [https://github.com/zerihundagne880-bot/phone-repair-hub.git](https://github.com/zerihundagne880-bot/phone-repair-hub.git)
 
----
 
 ### 👨‍💻 Developed by
 **Zerihun Dagne**
